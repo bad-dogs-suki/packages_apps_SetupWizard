@@ -17,6 +17,9 @@
     <string name="emergency_call">紧急电话</string>
     <string name="accessibility_settings">无障碍设置</string>
     <string name="setup_locale">语言</string>
+    <string name="choose_your_language">选择语言</string>
+    <string name="suggested_languages">推荐</string>
+    <string name="all_languages">所有语言</string>
     <string name="sim_locale_changed">检测到 %1$s SIM 卡</string>
     <string name="setup_sim_missing">SIM 卡未找到</string>
     <string name="sim_missing_summary" product="tablet">在您的平板电脑上未检测到 SIM 卡。请按照您平板电脑附带说明书中的操作方法插入 SIM 卡。</string>
@@ -25,6 +28,14 @@
     <string name="date_time_summary">如果需要，设置时区和调整日期和时间</string>
     <string name="setup_current_date">当前日期</string>
     <string name="setup_current_time">当前时间</string>
+    <string name="setup_datetime_section_date">日期</string>
+    <string name="setup_datetime_section_time">时间</string>
+    <string name="setup_date_format">格式</string>
+    <string name="date_format_day">日</string>
+    <string name="date_format_month">月</string>
+    <string name="date_format_year">年</string>
+    <string name="setup_time_zone">时区</string>
+    <string name="setup_24_hour_format">使用 24 小时格式</string>
     <string name="intro_restore_title">恢复应用和数据</string>
     <string name="intro_restore_subtitle">如果你有来自<xliff:g id="name" example="Halcyon">%s</xliff:g>或其他操作系统的Seedvault备份，你可以在这里恢复它。</string>
     <string name="intro_restore_button">从备份中还原</string>
@@ -52,4 +63,6 @@
     <string name="theme_summary">深色模式使用黑色背景来帮助电池在一些场景下提升续航能力</string>
     <string name="dark">深色</string>
     <string name="light">浅色</string>
+    <string name="swipe_up_to_go_home">上滑以进入桌面</string>
+    <string name="setup_finished_message">设置完成！</string>
 </resources>
