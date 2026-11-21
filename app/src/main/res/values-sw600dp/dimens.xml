@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 The Halcyon Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <dimen name="welcome_page_padding_horizontal">48dp</dimen>
+    <dimen name="welcome_logo_size">38sp</dimen>
+    <dimen name="welcome_shapes_height">26dp</dimen>
+    <dimen name="welcome_title_text_size">44sp</dimen>
+    <dimen name="welcome_title_line_height">52sp</dimen>
+    <dimen name="welcome_subtitle_text_size">17sp</dimen>
+    <dimen name="welcome_language_text_size">17sp</dimen>
+</resources>
